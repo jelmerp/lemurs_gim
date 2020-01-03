@@ -1,0 +1,12 @@
+mmur001	ingroup
+mmur006	ingroup
+mmur009	ingroup
+mmur079	ingroup
+mmur083	ingroup
+mmur084	ingroup
+mrav001	ingroup
+mrav002	ingroup
+mrav003	ingroup
+mrav004	ingroup
+cmed001	outgroup
+ccro003	outgroup

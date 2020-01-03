@@ -1,0 +1,19 @@
+mgan007	ingroup
+mgan008	ingroup
+mgan014	ingroup
+mgri044	ingroup
+mgri045	ingroup
+mgri051	ingroup
+mgri088	ingroup
+mgri093	ingroup
+mgri104	ingroup
+mmur001	ingroup
+mmur006	ingroup
+mmur009	ingroup
+mmur052	ingroup
+mmur056	ingroup
+mmur066	ingroup
+mruf003	outgroup
+mruf007	outgroup
+mruf008	outgroup
+

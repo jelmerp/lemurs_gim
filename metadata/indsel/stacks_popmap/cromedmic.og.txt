@@ -1,0 +1,9 @@
+ccro020	ingroup
+ccro021	ingroup
+ccro022	ingroup
+cmed001	ingroup
+cmed003	ingroup
+cmed010	ingroup
+mgri044	outgroup
+mmur009	outgroup
+

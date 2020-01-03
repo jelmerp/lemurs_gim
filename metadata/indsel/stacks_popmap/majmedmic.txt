@@ -1,0 +1,7 @@
+cmaj009	cmaj
+cmaj010	cmaj
+cmed001	cmed
+cmed003	cmed
+cmed010	cmed
+mgri044	outgroup
+mmur009	outgroup
