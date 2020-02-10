@@ -5,7 +5,7 @@
 ################################################################################
 ################################################################################
 ## General options:
-SCR_PIP=/datacommons/yoderlab/users/jelmer/scripts/geno/stacks/stacks_pip.sh
+SCR_PIP=/datacommons/yoderlab/users/jelmer/scripts/genomics/geno/stacks/stacks_pip.sh
 BAMSUFFIX=".sort.MQ30.dedup.bam"
 ADD_OPS_GSTACKS=""
 ADD_OPS_POPSTACKS="--min-samples-overall 0.75 --fasta-samples"
@@ -116,7 +116,7 @@ $SCR_PIP $GSTACKS_ID $POPSTACKS_ID $FASTA_ID $STACKSDIR_BASE $BAMDIR $BAMSUFFIX 
 
 ################################################################################
 ################################################################################
-# rsync -avr --no-perms /home/jelmer/Dropbox/sc_lemurs/scripts/ jwp37@dcc-slogin-02.oit.duke.edu:/datacommons/yoderlab/users/jelmer/scripts/
+# rsync -avr --no-perms /home/jelmer/Dropbox/scripts/genomics/ jwp37@dcc-slogin-02.oit.duke.edu:/datacommons/yoderlab/users/jelmer/scripts/genomics/
 # rsync -avr --no-perms /home/jelmer/Dropbox/sc_lemurs/radseq/metadata/ jwp37@dcc-slogin-02.oit.duke.edu:/datacommons/yoderlab/users/jelmer/radseq/metadata/
 # rsync -avr --no-perms /home/jelmer/Dropbox/sc_lemurs/proj/iim/indsel/ jwp37@dcc-slogin-02.oit.duke.edu:/datacommons/yoderlab/users/jelmer/proj/iim/indsel/
 
